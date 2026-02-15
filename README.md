@@ -150,4 +150,4 @@ If you want this to be truly private/multi-user:
 
 ## License
 
-No license file is included yet. If you plan to share or accept contributions, add a license (MIT / Apache-2.0) to make reuse terms explicit.
+No license file is included yet. 
